@@ -114,7 +114,7 @@ const Tutoring = () => {
 
 			<Container fluid className='contained sub-section'>
 				<h2 className='heading'>
-					Are you interested in tutoring for CougarCS?
+					Interested in tutoring for CougarCS?
 				</h2>
 				<div className='tutor-cta text-center col-md-8 mx-auto'>
 					<p>
