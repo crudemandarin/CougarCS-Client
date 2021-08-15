@@ -113,9 +113,7 @@ const Tutoring = () => {
 			</Container>
 
 			<Container fluid className='contained sub-section'>
-				<h2 className='heading'>
-					Interested in tutoring for CougarCS?
-				</h2>
+				<h2 className='heading'>Interested in tutoring for CougarCS?</h2>
 				<div className='tutor-cta text-center col-md-8 mx-auto'>
 					<p>
 						Develop Soft &amp; Technical Skills - Polish Resume - Pathway to UH
