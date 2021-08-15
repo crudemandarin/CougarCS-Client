@@ -17,7 +17,7 @@
 	},
 	"plugins": ["react", "prettier"],
 	"rules": {
-		"linebreak-style": ["error", "unix"],
+		"linebreak-style": ["error", "windows"],
 		"react/prop-types": "off",
 		"prettier/prettier": [
 			"error",
@@ -25,7 +25,8 @@
 				"useTabs": true,
 				"semi": true,
 				"jsxSingleQuote": true,
-				"singleQuote": true
+				"singleQuote": true,
+				"endOfLine": "auto"
 			}
 		]
 	}
